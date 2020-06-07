@@ -2202,15 +2202,15 @@ input, select, textarea {
 	padding-bottom: 10px;
 	color: white;
 }
-.html{width: 90%;
+.html{width: 85%;
 background-color:#333333;
 }
-.css{width: 80%;
+.css{width: 75%;
 	background-color:#333333;
 	}
-.js{width: 60%;
+.js{width: 70%;
 	background-color: #333333;
 	}
-.python{width: 55%;
+.php{width: 50%;
 	background-color: #333333;
 	}
